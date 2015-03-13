@@ -1,9 +1,12 @@
 # Single Page Apps
 Ruby single page apps were built using Ruby/Sinatra
+
 	* To run:
 	`$ gem install bundle`
 	`$ bundle install`
+
 Javascript single page apps were built using JavaScript/Express/Node.js
+
 	* To run:
 	`$ npm install`
 
